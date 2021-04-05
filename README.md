@@ -18,7 +18,7 @@
 ## Clone This Project
 
 ```bash
-> https://github.com/daviapdkdk27/botdavi.git
+> https://github.com/daviapdkdk27/botdavi
 ```
 
 ```bash
